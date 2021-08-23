@@ -1,4 +1,4 @@
-# Chat-application-socket.io
+# ChatCordPP
 description:
 1. Create A Folder and clone the project.
 2. Open folder in IDE.
