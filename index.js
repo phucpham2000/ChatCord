@@ -48,7 +48,7 @@ io.on("connection",function(socket){
 
 
 app.get("/",function(req,res){
-    res.render("trangchu");
+    res.render("index");
 });
 app.get("/chat",function(req,res){
     res.render("chat");
